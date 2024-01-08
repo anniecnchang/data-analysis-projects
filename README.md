@@ -1,4 +1,4 @@
 # data-analysis-projects
 
-[Employee Attrition Analysis](Employee Attrition Analysis.ipynb)
+[Employee Attrition Analysis](Employee%20Attrition%20Analysis.ipynb)
 
