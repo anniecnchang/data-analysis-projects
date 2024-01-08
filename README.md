@@ -4,6 +4,7 @@ This repository showcases some of my personal projects, highlighting topics that
 
 
 [Employee Attrition Analysis](Employee%20Attrition%20Analysis.ipynb)
+
 This project looks at different factors that contributes to attrition. Note: This is a fictional dataset downloaded from [Kaggle](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance). 
 
 
