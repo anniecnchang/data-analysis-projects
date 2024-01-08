@@ -1,6 +1,6 @@
 # data-analysis-projects
 
-This repository showcases some of my personal projects, highlighting interesting topics while serving as a dedicated space to refine and hone my technical skills in data analysis.
+This repository showcases some of my personal projects, highlighting topics that peak my interests while serving as a dedicated space to refine and hone my technical skills in data analysis.
 
 
 [Employee Attrition Analysis](Employee%20Attrition%20Analysis.ipynb)
